@@ -1,0 +1,29 @@
+.contact{
+    margin-top: 130px;
+background-color: #fff;
+}
+
+.title h2,
+i {
+    color: #2C3E50;
+}
+
+.line2{
+    background-color: #2C3E50;
+    height: 4px;
+    width: 80px;
+}
+
+.form .form-control:focus{
+    box-shadow: none;
+}
+
+.form .bg-color{
+    background-color:#1ABC9C ;
+    margin-bottom: 20px;
+}
+.form .btn:hover{
+    background-color: #1ABC9C;
+}
+
+

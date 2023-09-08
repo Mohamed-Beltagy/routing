@@ -1,0 +1,12 @@
+section{
+    background-color: #1ABC9C;
+}
+
+.bg-m{
+    margin-block:120px 70px ;
+}
+.line{
+    background-color: #fff;
+    height: 4px;
+    width: 80px;
+}
